@@ -1,3 +1,3 @@
 def cell{
-  sh'this is the deploy case'
+  sh 'this is the deploy case'
 }
