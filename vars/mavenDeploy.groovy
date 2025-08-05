@@ -1,3 +1,3 @@
 def call() {
-  sh 'This is the deploy case'
+  sh 'This is my first library deploy task'
 }
