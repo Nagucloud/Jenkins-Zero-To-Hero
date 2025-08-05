@@ -1,3 +1,3 @@
 def call() {
-  echo 'This is my first library deploy task'
+  echo "This is my first library deploy task"
 }
