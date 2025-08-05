@@ -1,3 +1,3 @@
-def cell{
+def cell() {
   sh 'this is the deploy case'
 }
