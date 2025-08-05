@@ -1,3 +1,3 @@
 def call() {
-  sh 'this is the test case'
+  sh 'This is my first library test task'
 }
